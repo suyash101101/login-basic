@@ -3,7 +3,7 @@
 
 body
 {
-    background-image: radial-gradient(circle,lightblue,cyan , rgb(43, 129, 172),rgb(14, 41, 139),rgba(0, 0, 84, 0.945));
+    background-image: linear-gradient(to right, rgba(0,0,255,0), rgba(0,0,255,1));
     background-color: #0d8aa7;
 }
 *{
